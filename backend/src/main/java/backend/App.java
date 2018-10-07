@@ -1,4 +1,4 @@
-package net.iz.backend;
+package backend;
 
 /**
  * Hello world!
